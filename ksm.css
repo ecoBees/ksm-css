@@ -1,5 +1,6 @@
 /* Ksm theme css */
 
 h2 {
-  color: red;
+  color: red !important;
 }
+
